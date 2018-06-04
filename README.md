@@ -77,7 +77,7 @@ See Lua5.3's manual to get usage.
 
 Some routines are new, with some Unicode-spec functions:
 
-###utf8.escape(str) -> utf8 string
+### utf8.escape(str) -> utf8 string
 escape a str to UTF-8 format string. It support several escape format:
 
 %ddd - which ddd is a decimal number at any length:
